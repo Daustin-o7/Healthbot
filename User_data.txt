@@ -1,0 +1,15 @@
+**********USER MEDICAL DETAILS**********
+Full name :Derek Austin
+Address:BSp
+Age :19
+Gender:Male
+Body Temperature:37°C
+Blood Pressure:120/80
+No.of Medicines per day:1
+Names of medicine and their Doses:
+1.Dolo -650mg	1 time at night
+
+
+Short report according to primary data:
+1.Your body temperature seems to be normal temperature.
+2.Your Blood Pressure Seems to be normal.
